@@ -1,4 +1,4 @@
-# 🎞️🖥️ Netflix Navigation 
+# 🎞️ Netflix Navigation 📱
 
 This is a smooth **Netflix-style Navigation Menu** built with **HTML**, **CSS**, and **JavaScript**.  
 Click the ‘≡’ menu icon to slide in a stylish sidebar navigation—perfect for a streaming app UI or landing pages!
